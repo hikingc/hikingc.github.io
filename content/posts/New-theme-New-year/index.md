@@ -7,7 +7,7 @@ categories = ["Matrix","Posts"]
 +++
 
 It has been a while since I have posted anything, however it has not been without a reason since I have done a
-[Hugo theme](https://github.com/1hiking/SimpleTheme) for my own website! (and anyone really).
+[Hugo theme](https://github.com/hikingc/SimpleTheme) for my own website! (and anyone really).
 
 One of the key aspects over the change were some features I didn't have in the last one, for example, a Table of Contents or an automatic nav and instead had
 other features that I wasn't using and added size to the page such as Google Analytics.

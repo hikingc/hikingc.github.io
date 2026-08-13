@@ -1,5 +1,5 @@
-baseURL = "https://1hiking.github.io"
-languageCode = "en-us"
+baseURL = "https://hikingc.github.io"
+locale = "en-us"
 relativeURLs = true
 title = "Nice Polar Blog"
 theme = "SimpleTheme"
@@ -17,17 +17,20 @@ weight = 10
 
 [params]
 dateFormat = "02 of January of 2006"
-copyright = "1hiking" # Will be displayed on Footer
+copyright = "hikingc" # Will be displayed on Footer
+creationYearCopyright = "2021" # Put the year you started on here
 logo = "/img/PolarBear.svg" # Supports SVG.
 logoalt = "A white polar bear" # alt description of the logo.
   [params.author]
-    name = "1hiking"
-    github = "1hiking" # https://github.com/XXXX
+    name = "hikingc"
+    github = "hikingc" # https://github.com/XXXX
 
 
 [permalinks]
 posts = ':section/:year/:month/:title/'
 
+[markup.goldmark.parser.attribute]
+block = true
 [markup]
   [markup.highlight]
     style = 'nord'
