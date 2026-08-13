@@ -4,17 +4,10 @@ date = 2021-11-28
 description = "Index"
 +++
 
+Welcome to my personal website, I haven't posted on it lately, but I try to keep it tidy, clean and maintained.
 
-I am a Systems engineering bachelor currently working for my degree.
+Currently i'm working on microservices projects as a contractor. I use the most fashionable and trendy tech!  That is, Java 11 and Oracle SQL...
 
-Currently interested in working on backend and frontend systems.
+{{< figure src="/polar-bear.gif" alt="The bear" width="500" >}}
 
-Some tools I am competent with:
-
-- HTML5
-- CSS3
-- JavaScript/TS (sorta...)
-- Java 8+
-- Python 3+
-
-I am always open to learn new tooling.
+I will try to make my posts informative, no flummery.
